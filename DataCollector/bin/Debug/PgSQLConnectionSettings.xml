@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<PgSQLConnectionSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HostName>10.87.20.183</HostName>
+  <PortAddress>5432</PortAddress>
+  <DataBaseName>APCS1</DataBaseName>
+  <UserName>apcs_admin</UserName>
+  <Password>qwerty</Password>
+</PgSQLConnectionSettings>

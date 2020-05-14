@@ -1,0 +1,14 @@
+2020/03/15 18:51:27.709 | ERROR | В документе XML (0, 0) присутствует ошибка.
+2020/03/15 18:56:26.157 | ERROR | В документе XML (0, 0) присутствует ошибка.
+2020/03/15 18:56:28.963 | ERROR | В документе XML (0, 0) присутствует ошибка.
+2020/03/16 08:05:48.228 | ERROR | 3D000: ???? ?????? "TestDB" ?? ??????????
+2020/03/16 10:21:31.891 | ERROR | Ping is not found
+2020/03/16 10:21:43.990 | ERROR | Значение не может быть неопределенным.
+Имя параметра: entities
+2020/03/16 10:51:45.963 | ERROR | Connection to PLC is't established
+2020/03/16 11:03:49.962 | ERROR | An error occurred while updating the entries. See the inner exception for details.
+2020/03/16 15:18:05.580 | ERROR | Ping is not found
+2020/03/16 15:18:17.926 | ERROR | Значение не может быть неопределенным.
+Имя параметра: entities
+2020/04/28 10:37:58.954 | ERROR | Не удалось привести тип объекта "System.Windows.Forms.TextBox" к типу "System.IConvertible".
+2020/04/28 10:38:07.411 | ERROR | Не удалось привести тип объекта "System.Windows.Forms.TextBox" к типу "System.IConvertible".
